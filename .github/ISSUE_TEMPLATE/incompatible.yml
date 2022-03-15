@@ -4,6 +4,7 @@ description: Report conflicting mods in MCDmodpacks.
  labels: ["Incompatible", "Open"]
  
  body:
+ 
   - type: input
     id: modpack
     attributes:
