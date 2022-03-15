@@ -37,7 +37,7 @@ body:
   - type: input
     id: modone
     attributes:
-      label: Conflicting Mods
+      label: List the conflicting Mods
     validations:
       required: true
   - type: input
