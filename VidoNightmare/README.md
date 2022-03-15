@@ -1,1 +1,0 @@
-The same improvements to the game like VidoQOL, but also it's very hard.
