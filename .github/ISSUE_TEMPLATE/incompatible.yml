@@ -4,7 +4,7 @@ title: '[I] title'
 labels: ["Incompatible", "Open"]
 body:
 
-  - type: textarea
+ - type: textarea
     id: description
     attributes:
       label: Describe the bug
