@@ -1,10 +1,8 @@
  name: Incompatibility Report
 description: Report conflicting mods in MCDmodpacks.
- title: '[I] title'
- labels: ["Incompatible", "Open"]
- 
- body:
- 
+title: '[I] title'
+labels: ["Incompatible", "Open"]
+body: 
   - type: input
     id: modpack
     attributes:
