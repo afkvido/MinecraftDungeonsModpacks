@@ -35,15 +35,9 @@ body:
     validations:
       required: true
   - type: input
-    id: modone
+    id: mods
     attributes:
-      label: ConflictingModOne
-    validations:
-      required: true
-   - type: input
-    id: modtwo
-    attributes:
-      label: ConflictingModTwo
+      label: What are the conflicting mods
     validations:
       required: true
   - type: input
