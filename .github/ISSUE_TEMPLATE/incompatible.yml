@@ -40,7 +40,7 @@ body:
       label: ConflictingModOne
     validations:
       required: true
-    - type: input
+   - type: input
     id: modtwo
     attributes:
       label: ConflictingModTwo
