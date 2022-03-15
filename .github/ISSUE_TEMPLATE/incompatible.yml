@@ -1,5 +1,6 @@
 name: "Bug report"
 description: "Thank you for reporting a bug!"
+...
 title: '[I] title'
 labels: ["Incompatible", "Open"]
 
