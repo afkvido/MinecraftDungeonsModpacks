@@ -40,6 +40,12 @@ body:
       label: ConflictingModOne
     validations:
       required: true
+    - type: input
+    id: modtwo
+    attributes:
+      label: ConflictingModTwo
+    validations:
+      required: true
   - type: input
     id: context
     attributes:
