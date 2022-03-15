@@ -1,6 +1,6 @@
 name: Incompatibility Report
 description: Report an incompatibility to help us improve MCDmodpacks.
-title: '[Bug] title'
+title: '[I] title'
 labels: ["Incompatible", "Open"]
 body:
 
@@ -29,9 +29,9 @@ body:
     validations:
       required: true
   - type: input
-    id: java
+    id: modpack
     attributes:
-      label: Your Java version
+      label: What modpack are you using
     validations:
       required: true
   - type: input
