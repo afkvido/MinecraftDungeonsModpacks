@@ -1,4 +1,4 @@
-name: "Incompatibility Report"
+name: Bug Report
 description: Report conflicting mods in MCDmodpacks.
 title: '[I] title'
 labels: ["Incompatible", "Open"]
