@@ -75,3 +75,5 @@ body:
         - label: |
             I am on the LATEST release of MCDmodpacks. Don't report bugs for old releases.
           required: true
+          
+
