@@ -34,18 +34,6 @@ body:
       label: What modpack are you using
     validations:
       required: true
- - type: input
-    id: modone
-    attributes:
-      label: Confliting mod 1
-    validations:
-      required: true
- - type: input
-    id: modtwo
-    attributes:
-      label: Confliting mod 2
-    validations:
-      required: true
   - type: input
     id: context
     attributes:
