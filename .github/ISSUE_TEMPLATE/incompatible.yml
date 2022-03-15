@@ -4,7 +4,7 @@ title: '[I] title'
 labels: ["Incompatible", "Open"]
 body:
 
- - type: textarea
+  - type: textarea
     id: description
     attributes:
       label: Describe the bug
@@ -35,9 +35,9 @@ body:
     validations:
       required: true
   - type: input
-    id: mods
+    id: modone
     attributes:
-      label: What are the conflicting mods
+      label: Conflicting Mods
     validations:
       required: true
   - type: input
