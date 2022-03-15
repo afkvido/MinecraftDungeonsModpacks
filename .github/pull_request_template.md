@@ -4,7 +4,7 @@
 <!---
 
 BEFORE SUBMITTING YOUR PULL REQUEST, PLEASE READ OUR CONTRIBUTING GUIDELINES:
-https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/.github/CODE_OF_CONDUCT.md
+https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/.github/CONTRIBUTING.md
 
 MAKE SURE TO DESCRIBE THE PULL REQUEST, AND ENABLE [ALLOW EDITS FROM MAINTAINERS].
 
