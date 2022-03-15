@@ -1,21 +1,27 @@
 # VidoQOL
 #### VidøQualityOfLife
 ______
+Some general improvements into the game, like the Enchanter NPC, Invisible Armor, some custom Pets, etc.
+
 ## Camp Mods
+- Enchanter NPC ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/CAMP_EnchanterNPC.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/146))
+- Lobby PVP ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/CAMP_LobbyPvp.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/117))
 
 ## Cosmetic Mods
+- Invisible Armor ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/COSMETIC_Invisible-Armor.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/18))
+- Viler Witches ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/COSMETIC_VilerWitches.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/104))
 
 ## GUI Mods
-- Tr
+- Transparent GUI ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/GUI_TransparentGui.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/84))
 
 ## Libraries
-- Blueprint Loader
+- Blueprint Loader ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/LIBRARY_Blueprint-Loader.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/111))
 
 ## Pet Mods
-- Baby Dragon Pet
-- Enderman Pet
-- Wither Pet
+- Baby Dragon Pet ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/PET_BabyDragon.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/65))
+- Enderman Pet ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/PET_Endeman.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/99))
+- Wither Pet ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/PET_Wither.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/42))
 
 ## Skins Mods
-- Custom Skins Loader
-- Too Many Outfits
+- Custom Skins Loader ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/SKINS_CustomSkinsLoader.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/79))
+- Too Many Outfits ([Location](https://github.com/afkvido/MinecraftDungeonsModpacks/blob/main/VidoQOL/~mods/SKINS_TooManyOutfits.pak)) ([Source](https://www.nexusmods.com/minecraftdungeons/mods/44))
